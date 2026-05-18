@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+Untitled.ipynb
+*.py .ipynb
+generate-report.js
+index.html
+netlify.toml
+DEPLOY.md
